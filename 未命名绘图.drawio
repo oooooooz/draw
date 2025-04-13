@@ -153,12 +153,6 @@
         <mxCell id="TnUPEMsU65kMXo9H1k3O-62" value=" AFA节点" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="TnUPEMsU65kMXo9H1k3O-60">
           <mxGeometry x="58" y="211.12399643175738" width="118" height="77.55575379125781" as="geometry" />
         </mxCell>
-        <mxCell id="TnUPEMsU65kMXo9H1k3O-63" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="TnUPEMsU65kMXo9H1k3O-1">
-          <mxGeometry x="2110" y="810" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="TnUPEMsU65kMXo9H1k3O-55" value="Text" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1230" y="680" width="60" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
